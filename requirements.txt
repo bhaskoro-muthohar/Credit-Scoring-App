@@ -1,0 +1,4 @@
+pycaret==2.0.0
+streamlit
+pandas
+numpy
