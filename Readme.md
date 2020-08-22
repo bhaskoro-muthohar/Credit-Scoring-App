@@ -1,7 +1,7 @@
 # Credit Scoring App
 ![shield](https://img.shields.io/badge/Property%20of-Creditable-red)
 
-An app to predict credit score a person that want to apply loan to peer-to-peer landing platform. Built with catboost classifier algorithm.
+An app to predict credit score a person that want to apply loan to peer-to-peer landing platform. Built with state-of-the-art classifier algorithm (catboost).
 
 ## Installation
 
